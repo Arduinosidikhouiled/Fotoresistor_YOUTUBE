@@ -1,0 +1,2 @@
+# Fotoresistor_YOUTUBE
+LDR
